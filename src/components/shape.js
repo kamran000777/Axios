@@ -1,4 +1,4 @@
-module.exports=Circle;
+
 class Shape{
     constructor(name){
        this.name;
